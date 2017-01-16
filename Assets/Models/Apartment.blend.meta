@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 75650cd37e6f1c04a967065f5009a009
+timeCreated: 1483517933
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Balcony01
+    100002: Balcony02
+    100004: floorbalcony
+    100006: floorbalcony2
+    100008: floorbalcony3
+    100010: floorbalcony4
+    100012: floordining
+    100014: floorkitchen
+    100016: floorroom1bath
+    100018: floorroom1dresser
+    100020: floorroom2
+    100022: floorroom2bath
+    100024: floorroom3
+    100026: floorroom3bath
+    100028: floorstore
+    100030: Railing02
+    100032: Railing03
+    100034: //RootNode
+    100036: walls
+    100038: doorway
+    100040: lock
+    100042: doorway_001
+    100044: doorway_002
+    100046: doorway_003
+    100048: doorway_004
+    100050: doorway_005
+    100052: doorway_006
+    100054: doorway_007
+    100056: doorway_008
+    100058: doorway_009
+    100060: doorway_010
+    100062: Cube_000
+    100064: Cube_004
+    400000: Balcony01
+    400002: Balcony02
+    400004: floorbalcony
+    400006: floorbalcony2
+    400008: floorbalcony3
+    400010: floorbalcony4
+    400012: floordining
+    400014: floorkitchen
+    400016: floorroom1bath
+    400018: floorroom1dresser
+    400020: floorroom2
+    400022: floorroom2bath
+    400024: floorroom3
+    400026: floorroom3bath
+    400028: floorstore
+    400030: Railing02
+    400032: Railing03
+    400034: //RootNode
+    400036: walls
+    400038: doorway
+    400040: lock
+    400042: doorway_001
+    400044: doorway_002
+    400046: doorway_003
+    400048: doorway_004
+    400050: doorway_005
+    400052: doorway_006
+    400054: doorway_007
+    400056: doorway_008
+    400058: doorway_009
+    400060: doorway_010
+    400062: Cube_000
+    400064: Cube_004
+    2300000: Balcony01
+    2300002: Balcony02
+    2300004: floorbalcony
+    2300006: floorbalcony2
+    2300008: floorbalcony3
+    2300010: floorbalcony4
+    2300012: floordining
+    2300014: floorkitchen
+    2300016: floorroom1bath
+    2300018: floorroom1dresser
+    2300020: floorroom2
+    2300022: floorroom2bath
+    2300024: floorroom3
+    2300026: floorroom3bath
+    2300028: floorstore
+    2300030: Railing02
+    2300032: Railing03
+    2300034: walls
+    2300036: doorway
+    2300038: doorway_001
+    2300040: doorway_002
+    2300042: doorway_003
+    2300044: doorway_004
+    2300046: doorway_005
+    2300048: doorway_006
+    2300050: doorway_007
+    2300052: doorway_008
+    2300054: doorway_009
+    2300056: doorway_010
+    2300058: Cube_000
+    2300060: Cube_004
+    3300000: Balcony01
+    3300002: Balcony02
+    3300004: floorbalcony
+    3300006: floorbalcony2
+    3300008: floorbalcony3
+    3300010: floorbalcony4
+    3300012: floordining
+    3300014: floorkitchen
+    3300016: floorroom1bath
+    3300018: floorroom1dresser
+    3300020: floorroom2
+    3300022: floorroom2bath
+    3300024: floorroom3
+    3300026: floorroom3bath
+    3300028: floorstore
+    3300030: Railing02
+    3300032: Railing03
+    3300034: walls
+    3300036: doorway
+    3300038: doorway_001
+    3300040: doorway_002
+    3300042: doorway_003
+    3300044: doorway_004
+    3300046: doorway_005
+    3300048: doorway_006
+    3300050: doorway_007
+    3300052: doorway_008
+    3300054: doorway_009
+    3300056: doorway_010
+    3300058: Cube_000
+    3300060: Cube_004
+    4300000: Balcony01
+    4300002: Balcony02
+    4300004: floordining
+    4300006: floorroom3
+    4300008: floorroom3bath
+    4300010: floorroom2bath
+    4300012: floorbalcony4
+    4300014: floorbalcony2
+    4300016: floorbalcony3
+    4300018: floorstore
+    4300020: floorkitchen
+    4300022: floorroom1dresser
+    4300024: floorroom1bath
+    4300026: floorroom2
+    4300028: floorbalcony
+    4300030: Railing03
+    4300032: Railing02
+    4300034: walls
+    4300036: doorway
+    4300038: doorway_001
+    4300040: doorway_002
+    4300042: doorway_003
+    4300044: doorway_004
+    4300046: doorway_005
+    4300048: doorway_006
+    4300050: doorway_007
+    4300052: doorway_008
+    4300054: doorway_009
+    4300056: doorway_010
+    4300058: Cube_004
+    4300060: Cube_000
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

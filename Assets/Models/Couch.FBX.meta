@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: b2f74e316cbdb78488f36ab218beff97
+timeCreated: 1484663626
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Books05
+    100004: Books06
+    100006: Books07
+    100008: ChamferBox04
+    100010: ChamferBox11
+    100012: ChamferBox12
+    100014: ChamferBox13
+    100016: Divan
+    100018: Fob
+    100020: geometry
+    100022: Line11
+    100024: Line35
+    100026: Line37
+    100028: Line39
+    100030: Object01
+    100032: Object02
+    100034: Object03
+    100036: VRayLight05
+    100038: VRayLight10
+    100040: VRayLight11
+    100042: VRayLight12
+    100044: VRayLight13
+    100046: VRayPhysicalCamera01
+    100048: VRayPhysicalCamera01.Target
+    100050: VSep02
+    100052: "\u041D\u043E\u0436\u043A\u043001"
+    100054: "\u041D\u043E\u0436\u043A\u043005"
+    100056: "\u041D\u043E\u0436\u043A\u043006"
+    100058: "\u041D\u043E\u0436\u043A\u043007"
+    100060: "\u041F\u043E\u0434\u043B\u043E\u043A\u043E\u0442\u043D\u0438\u043A -
+      \u0442\u0443\u043C\u0431\u0430"
+    100062: "\u041F\u043E\u0434\u043B\u043E\u043A\u043E\u0442\u043D\u0438\u043A -
+      \u0442\u0443\u043C\u0431\u043002"
+    100064: "\u041F\u043E\u0434\u043B\u043E\u043A\u043E\u0442\u043D\u0438\u043A -
+      \u0442\u0443\u043C\u0431\u043003"
+    100066: "\u041F\u043E\u0434\u0443\u0448\u043A\u043003"
+    100068: "\u041F\u043E\u0434\u0443\u0448\u043A\u043004"
+    100070: "\u041F\u043E\u0434\u0443\u0448\u043A\u043005"
+    100072: "\u041F\u043E\u0434\u0443\u0448\u043A\u043006"
+    100074: "\u041F\u043E\u0434\u0443\u0448\u043A\u043007"
+    100076: "\u041F\u043E\u0434\u0443\u0448\u043A\u043008"
+    100078: "\u041F\u043E\u0434\u0443\u0448\u043A\u043009"
+    100080: "\u041F\u043E\u0434\u0443\u0448\u043A\u043010"
+    100082: "\u041F\u043E\u0434\u0443\u0448\u043A\u043011"
+    100084: "\u041F\u043E\u0434\u0443\u0448\u043A\u043012"
+    100086: "\u0421\u0435\u043A\u0446\u0438\u044F - 120 \"\u0412\"\u043C\u0435\u0442."
+    100088: "\u0421\u0435\u043A\u0446\u0438\u044F - 120 \"\u0412\"\u043C\u0435\u0442.01"
+    100090: "\u0421\u0435\u043A\u0446\u0438\u044F - 120 \"\u0412\"\u043C\u0435\u0442.03"
+    100092: "\u0421\u0435\u043A\u0446\u0438\u044F - 120 \"\u0412\"\u043C\u0435\u0442.04"
+    100094: "\u0421\u0435\u043A\u0446\u0438\u044F - 120 \"\u0412\"\u043C\u0435\u0442.05"
+    400000: //RootNode
+    400002: Books05
+    400004: Books06
+    400006: Books07
+    400008: ChamferBox04
+    400010: ChamferBox11
+    400012: ChamferBox12
+    400014: ChamferBox13
+    400016: Divan
+    400018: Fob
+    400020: geometry
+    400022: Line11
+    400024: Line35
+    400026: Line37
+    400028: Line39
+    400030: Object01
+    400032: Object02
+    400034: Object03
+    400036: VRayLight05
+    400038: VRayLight10
+    400040: VRayLight11
+    400042: VRayLight12
+    400044: VRayLight13
+    400046: VRayPhysicalCamera01
+    400048: VRayPhysicalCamera01.Target
+    400050: VSep02
+    400052: "\u041D\u043E\u0436\u043A\u043001"
+    400054: "\u041D\u043E\u0436\u043A\u043005"
+    400056: "\u041D\u043E\u0436\u043A\u043006"
+    400058: "\u041D\u043E\u0436\u043A\u043007"
+    400060: "\u041F\u043E\u0434\u043B\u043E\u043A\u043E\u0442\u043D\u0438\u043A -
+      \u0442\u0443\u043C\u0431\u0430"
+    400062: "\u041F\u043E\u0434\u043B\u043E\u043A\u043E\u0442\u043D\u0438\u043A -
+      \u0442\u0443\u043C\u0431\u043002"
+    400064: "\u041F\u043E\u0434\u043B\u043E\u043A\u043E\u0442\u043D\u0438\u043A -
+      \u0442\u0443\u043C\u0431\u043003"
+    400066: "\u041F\u043E\u0434\u0443\u0448\u043A\u043003"
+    400068: "\u041F\u043E\u0434\u0443\u0448\u043A\u043004"
+    400070: "\u041F\u043E\u0434\u0443\u0448\u043A\u043005"
+    400072: "\u041F\u043E\u0434\u0443\u0448\u043A\u043006"
+    400074: "\u041F\u043E\u0434\u0443\u0448\u043A\u043007"
+    400076: "\u041F\u043E\u0434\u0443\u0448\u043A\u043008"
+    400078: "\u041F\u043E\u0434\u0443\u0448\u043A\u043009"
+    400080: "\u041F\u043E\u0434\u0443\u0448\u043A\u043010"
+    400082: "\u041F\u043E\u0434\u0443\u0448\u043A\u043011"
+    400084: "\u041F\u043E\u0434\u0443\u0448\u043A\u043012"
+    400086: "\u0421\u0435\u043A\u0446\u0438\u044F - 120 \"\u0412\"\u043C\u0435\u0442."
+    400088: "\u0421\u0435\u043A\u0446\u0438\u044F - 120 \"\u0412\"\u043C\u0435\u0442.01"
+    400090: "\u0421\u0435\u043A\u0446\u0438\u044F - 120 \"\u0412\"\u043C\u0435\u0442.03"
+    400092: "\u0421\u0435\u043A\u0446\u0438\u044F - 120 \"\u0412\"\u043C\u0435\u0442.04"
+    400094: "\u0421\u0435\u043A\u0446\u0438\u044F - 120 \"\u0412\"\u043C\u0435\u0442.05"
+    2300000: Books05
+    2300002: Books06
+    2300004: Books07
+    2300006: ChamferBox04
+    2300008: ChamferBox11
+    2300010: ChamferBox12
+    2300012: ChamferBox13
+    2300014: Fob
+    2300016: Line11
+    2300018: Line35
+    2300020: Line37
+    2300022: Line39
+    2300024: Object01
+    2300026: Object02
+    2300028: Object03
+    2300030: "\u041D\u043E\u0436\u043A\u043001"
+    2300032: "\u041D\u043E\u0436\u043A\u043005"
+    2300034: "\u041D\u043E\u0436\u043A\u043006"
+    2300036: "\u041D\u043E\u0436\u043A\u043007"
+    2300038: "\u041F\u043E\u0434\u043B\u043E\u043A\u043E\u0442\u043D\u0438\u043A -
+      \u0442\u0443\u043C\u0431\u0430"
+    2300040: "\u041F\u043E\u0434\u043B\u043E\u043A\u043E\u0442\u043D\u0438\u043A -
+      \u0442\u0443\u043C\u0431\u043002"
+    2300042: "\u041F\u043E\u0434\u043B\u043E\u043A\u043E\u0442\u043D\u0438\u043A -
+      \u0442\u0443\u043C\u0431\u043003"
+    2300044: "\u041F\u043E\u0434\u0443\u0448\u043A\u043003"
+    2300046: "\u041F\u043E\u0434\u0443\u0448\u043A\u043004"
+    2300048: "\u041F\u043E\u0434\u0443\u0448\u043A\u043005"
+    2300050: "\u041F\u043E\u0434\u0443\u0448\u043A\u043006"
+    2300052: "\u041F\u043E\u0434\u0443\u0448\u043A\u043007"
+    2300054: "\u041F\u043E\u0434\u0443\u0448\u043A\u043008"
+    2300056: "\u041F\u043E\u0434\u0443\u0448\u043A\u043009"
+    2300058: "\u041F\u043E\u0434\u0443\u0448\u043A\u043010"
+    2300060: "\u041F\u043E\u0434\u0443\u0448\u043A\u043011"
+    2300062: "\u041F\u043E\u0434\u0443\u0448\u043A\u043012"
+    3300000: Books05
+    3300002: Books06
+    3300004: Books07
+    3300006: ChamferBox04
+    3300008: ChamferBox11
+    3300010: ChamferBox12
+    3300012: ChamferBox13
+    3300014: Fob
+    3300016: Line11
+    3300018: Line35
+    3300020: Line37
+    3300022: Line39
+    3300024: Object01
+    3300026: Object02
+    3300028: Object03
+    3300030: "\u041D\u043E\u0436\u043A\u043001"
+    3300032: "\u041D\u043E\u0436\u043A\u043005"
+    3300034: "\u041D\u043E\u0436\u043A\u043006"
+    3300036: "\u041D\u043E\u0436\u043A\u043007"
+    3300038: "\u041F\u043E\u0434\u043B\u043E\u043A\u043E\u0442\u043D\u0438\u043A -
+      \u0442\u0443\u043C\u0431\u0430"
+    3300040: "\u041F\u043E\u0434\u043B\u043E\u043A\u043E\u0442\u043D\u0438\u043A -
+      \u0442\u0443\u043C\u0431\u043002"
+    3300042: "\u041F\u043E\u0434\u043B\u043E\u043A\u043E\u0442\u043D\u0438\u043A -
+      \u0442\u0443\u043C\u0431\u043003"
+    3300044: "\u041F\u043E\u0434\u0443\u0448\u043A\u043003"
+    3300046: "\u041F\u043E\u0434\u0443\u0448\u043A\u043004"
+    3300048: "\u041F\u043E\u0434\u0443\u0448\u043A\u043005"
+    3300050: "\u041F\u043E\u0434\u0443\u0448\u043A\u043006"
+    3300052: "\u041F\u043E\u0434\u0443\u0448\u043A\u043007"
+    3300054: "\u041F\u043E\u0434\u0443\u0448\u043A\u043008"
+    3300056: "\u041F\u043E\u0434\u0443\u0448\u043A\u043009"
+    3300058: "\u041F\u043E\u0434\u0443\u0448\u043A\u043010"
+    3300060: "\u041F\u043E\u0434\u0443\u0448\u043A\u043011"
+    3300062: "\u041F\u043E\u0434\u0443\u0448\u043A\u043012"
+    4300000: Fob
+    4300002: ChamferBox04
+    4300004: "\u041D\u043E\u0436\u043A\u043001"
+    4300006: "\u041F\u043E\u0434\u043B\u043E\u043A\u043E\u0442\u043D\u0438\u043A -
+      \u0442\u0443\u043C\u0431\u0430"
+    4300008: Line11
+    4300010: ChamferBox11
+    4300012: "\u041D\u043E\u0436\u043A\u043005"
+    4300014: "\u041F\u043E\u0434\u043B\u043E\u043A\u043E\u0442\u043D\u0438\u043A -
+      \u0442\u0443\u043C\u0431\u043002"
+    4300016: Line35
+    4300018: "\u041D\u043E\u0436\u043A\u043006"
+    4300020: "\u041D\u043E\u0436\u043A\u043007"
+    4300022: ChamferBox12
+    4300024: Line37
+    4300026: ChamferBox13
+    4300028: Line39
+    4300030: "\u041F\u043E\u0434\u043B\u043E\u043A\u043E\u0442\u043D\u0438\u043A -
+      \u0442\u0443\u043C\u0431\u043003"
+    4300032: "\u041F\u043E\u0434\u0443\u0448\u043A\u043003"
+    4300034: "\u041F\u043E\u0434\u0443\u0448\u043A\u043004"
+    4300036: "\u041F\u043E\u0434\u0443\u0448\u043A\u043005"
+    4300038: "\u041F\u043E\u0434\u0443\u0448\u043A\u043006"
+    4300040: "\u041F\u043E\u0434\u0443\u0448\u043A\u043007"
+    4300042: "\u041F\u043E\u0434\u0443\u0448\u043A\u043008"
+    4300044: "\u041F\u043E\u0434\u0443\u0448\u043A\u043009"
+    4300046: "\u041F\u043E\u0434\u0443\u0448\u043A\u043010"
+    4300048: "\u041F\u043E\u0434\u0443\u0448\u043A\u043011"
+    4300050: "\u041F\u043E\u0434\u0443\u0448\u043A\u043012"
+    4300052: Object01
+    4300054: Object02
+    4300056: Object03
+    4300058: Books07
+    4300060: Books06
+    4300062: Books05
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

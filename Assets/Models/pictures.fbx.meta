@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: be7e6c934b545fd498903a8371acbfd8
+timeCreated: 1484661998
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Canvas1
+    100002: Canvas10
+    100004: Canvas2
+    100006: Canvas3
+    100008: Canvas4
+    100010: Canvas5
+    100012: Canvas6
+    100014: Canvas7
+    100016: Canvas8
+    100018: Canvas9
+    100020: Metal1
+    100022: Metal10
+    100024: Metal2
+    100026: Metal3
+    100028: Metal4
+    100030: Metal5
+    100032: Metal6
+    100034: Metal7
+    100036: Metal8
+    100038: Metal9
+    100040: Picture1
+    100042: Picture10
+    100044: Picture2
+    100046: PIcture3
+    100048: Picture4
+    100050: Picture5
+    100052: Picture6
+    100054: Picture7
+    100056: Picture8
+    100058: Picture9
+    100060: //RootNode
+    400000: Canvas1
+    400002: Canvas10
+    400004: Canvas2
+    400006: Canvas3
+    400008: Canvas4
+    400010: Canvas5
+    400012: Canvas6
+    400014: Canvas7
+    400016: Canvas8
+    400018: Canvas9
+    400020: Metal1
+    400022: Metal10
+    400024: Metal2
+    400026: Metal3
+    400028: Metal4
+    400030: Metal5
+    400032: Metal6
+    400034: Metal7
+    400036: Metal8
+    400038: Metal9
+    400040: Picture1
+    400042: Picture10
+    400044: Picture2
+    400046: PIcture3
+    400048: Picture4
+    400050: Picture5
+    400052: Picture6
+    400054: Picture7
+    400056: Picture8
+    400058: Picture9
+    400060: //RootNode
+    2300000: Canvas1
+    2300002: Canvas10
+    2300004: Canvas2
+    2300006: Canvas3
+    2300008: Canvas4
+    2300010: Canvas5
+    2300012: Canvas6
+    2300014: Canvas7
+    2300016: Canvas8
+    2300018: Canvas9
+    2300020: Metal1
+    2300022: Metal10
+    2300024: Metal2
+    2300026: Metal3
+    2300028: Metal4
+    2300030: Metal5
+    2300032: Metal6
+    2300034: Metal7
+    2300036: Metal8
+    2300038: Metal9
+    3300000: Canvas1
+    3300002: Canvas10
+    3300004: Canvas2
+    3300006: Canvas3
+    3300008: Canvas4
+    3300010: Canvas5
+    3300012: Canvas6
+    3300014: Canvas7
+    3300016: Canvas8
+    3300018: Canvas9
+    3300020: Metal1
+    3300022: Metal10
+    3300024: Metal2
+    3300026: Metal3
+    3300028: Metal4
+    3300030: Metal5
+    3300032: Metal6
+    3300034: Metal7
+    3300036: Metal8
+    3300038: Metal9
+    4300000: Canvas10
+    4300002: Metal10
+    4300004: Metal9
+    4300006: Canvas9
+    4300008: Metal8
+    4300010: Canvas8
+    4300012: Canvas7
+    4300014: Metal7
+    4300016: Metal6
+    4300018: Canvas6
+    4300020: Canvas5
+    4300022: Metal5
+    4300024: Canvas4
+    4300026: Metal4
+    4300028: Metal3
+    4300030: Canvas3
+    4300032: Canvas2
+    4300034: Metal2
+    4300036: Metal1
+    4300038: Canvas1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.35
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -38,6 +38,37 @@ ModelImporter:
     100060: doorway_010
     100062: Cube_000
     100064: Cube_004
+    100066: Canvas1
+    100068: Canvas10
+    100070: Canvas2
+    100072: Canvas3
+    100074: Canvas4
+    100076: Canvas5
+    100078: Canvas6
+    100080: Canvas7
+    100082: Canvas8
+    100084: Canvas9
+    100086: Metal1
+    100088: Metal10
+    100090: Metal2
+    100092: Metal3
+    100094: Metal4
+    100096: Metal5
+    100098: Metal6
+    100100: Metal7
+    100102: Metal8
+    100104: Metal9
+    100106: Picture1
+    100108: Picture10
+    100110: Picture2
+    100112: PIcture3
+    100114: Picture4
+    100116: Picture5
+    100118: Picture6
+    100120: Picture7
+    100122: Picture8
+    100124: Picture9
+    100126: doorway_000
     400000: Balcony01
     400002: Balcony02
     400004: floorbalcony
@@ -71,6 +102,37 @@ ModelImporter:
     400060: doorway_010
     400062: Cube_000
     400064: Cube_004
+    400066: Canvas1
+    400068: Canvas10
+    400070: Canvas2
+    400072: Canvas3
+    400074: Canvas4
+    400076: Canvas5
+    400078: Canvas6
+    400080: Canvas7
+    400082: Canvas8
+    400084: Canvas9
+    400086: Metal1
+    400088: Metal10
+    400090: Metal2
+    400092: Metal3
+    400094: Metal4
+    400096: Metal5
+    400098: Metal6
+    400100: Metal7
+    400102: Metal8
+    400104: Metal9
+    400106: Picture1
+    400108: Picture10
+    400110: Picture2
+    400112: PIcture3
+    400114: Picture4
+    400116: Picture5
+    400118: Picture6
+    400120: Picture7
+    400122: Picture8
+    400124: Picture9
+    400126: doorway_000
     2300000: Balcony01
     2300002: Balcony02
     2300004: floorbalcony
@@ -102,6 +164,27 @@ ModelImporter:
     2300056: doorway_010
     2300058: Cube_000
     2300060: Cube_004
+    2300062: Canvas1
+    2300064: Canvas10
+    2300066: Canvas2
+    2300068: Canvas3
+    2300070: Canvas4
+    2300072: Canvas5
+    2300074: Canvas6
+    2300076: Canvas7
+    2300078: Canvas8
+    2300080: Canvas9
+    2300082: Metal1
+    2300084: Metal10
+    2300086: Metal2
+    2300088: Metal3
+    2300090: Metal4
+    2300092: Metal5
+    2300094: Metal6
+    2300096: Metal7
+    2300098: Metal8
+    2300100: Metal9
+    2300102: doorway_000
     3300000: Balcony01
     3300002: Balcony02
     3300004: floorbalcony
@@ -133,6 +216,27 @@ ModelImporter:
     3300056: doorway_010
     3300058: Cube_000
     3300060: Cube_004
+    3300062: Canvas1
+    3300064: Canvas10
+    3300066: Canvas2
+    3300068: Canvas3
+    3300070: Canvas4
+    3300072: Canvas5
+    3300074: Canvas6
+    3300076: Canvas7
+    3300078: Canvas8
+    3300080: Canvas9
+    3300082: Metal1
+    3300084: Metal10
+    3300086: Metal2
+    3300088: Metal3
+    3300090: Metal4
+    3300092: Metal5
+    3300094: Metal6
+    3300096: Metal7
+    3300098: Metal8
+    3300100: Metal9
+    3300102: doorway_000
     4300000: Balcony01
     4300002: Balcony02
     4300004: floordining
@@ -164,6 +268,27 @@ ModelImporter:
     4300056: doorway_010
     4300058: Cube_004
     4300060: Cube_000
+    4300062: Canvas1
+    4300064: Metal1
+    4300066: Metal2
+    4300068: Canvas2
+    4300070: Canvas3
+    4300072: Metal3
+    4300074: Metal4
+    4300076: Canvas4
+    4300078: Metal5
+    4300080: Canvas5
+    4300082: Canvas6
+    4300084: Metal6
+    4300086: Metal7
+    4300088: Canvas7
+    4300090: Canvas8
+    4300092: Metal8
+    4300094: Canvas9
+    4300096: Metal9
+    4300098: Metal10
+    4300100: Canvas10
+    4300102: doorway_000
     7400000: Default Take
     9500000: //RootNode
   materials:

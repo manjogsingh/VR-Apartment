@@ -18,14 +18,14 @@ ExportedObj/
 *.booproj
 *.svd
 *.blend1
-*.blend1.meta
-
 
 # Unity3D generated meta files
 *.pidb.meta
+*.blend1.meta
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+GvrIgnoreManifestMergeCheck.txt
 
 # Builds
 *.apk

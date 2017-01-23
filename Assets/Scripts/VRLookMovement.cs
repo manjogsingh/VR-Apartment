@@ -5,8 +5,8 @@ using UnityEngine;
 public class VRLookMovement : MonoBehaviour {
 
     public Transform vrCamera;
-    public float toogleAngle = 30.0f;
-    public float speed = 3.0f;
+    public float toogleAngle = 40.0f;
+    public float speed = 1.0f;
     public bool moveForward;
     CharacterController cc;
 	// Use this for initialization

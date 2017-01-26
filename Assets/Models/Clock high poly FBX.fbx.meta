@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 798e2e82e3b5af9429f1c69e62782e6e
+timeCreated: 1485453550
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Clock paper
+    100004: glass
+    100006: hours hand
+    100008: minuts hand
+    100010: Nail
+    100012: outside
+    100014: second hand
+    400000: //RootNode
+    400002: Clock paper
+    400004: glass
+    400006: hours hand
+    400008: minuts hand
+    400010: Nail
+    400012: outside
+    400014: second hand
+    2300000: Clock paper
+    2300002: glass
+    2300004: hours hand
+    2300006: minuts hand
+    2300008: Nail
+    2300010: outside
+    2300012: second hand
+    3300000: Clock paper
+    3300002: glass
+    3300004: hours hand
+    3300006: minuts hand
+    3300008: Nail
+    3300010: outside
+    3300012: second hand
+    4300000: glass
+    4300002: minuts hand
+    4300004: hours hand
+    4300006: second hand
+    4300008: Nail
+    4300010: Clock paper
+    4300012: outside
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

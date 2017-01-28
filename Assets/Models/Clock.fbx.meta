@@ -1,50 +1,51 @@
 fileFormatVersion: 2
-guid: c469ddc839c2de949a58c7416efe7173
-timeCreated: 1484671271
+guid: 162ce2b6ff6807b449cfcfd5b65fd3dc
+timeCreated: 1485538978
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: frame
-    100004: mirror
-    100006: pattern
-    100008: pattern2
-    100010: pattern_MeshPart0
-    100012: pattern_MeshPart1
-    100014: pattern_MeshPart2
-    100016: pattern_MeshPart3
-    400000: //RootNode
-    400002: frame
-    400004: mirror
-    400006: pattern
-    400008: pattern2
-    400010: pattern_MeshPart0
-    400012: pattern_MeshPart1
-    400014: pattern_MeshPart2
-    400016: pattern_MeshPart3
-    2300000: frame
-    2300002: mirror
-    2300004: pattern2
-    2300006: pattern_MeshPart0
-    2300008: pattern_MeshPart1
-    2300010: pattern_MeshPart2
-    2300012: pattern_MeshPart3
-    3300000: frame
-    3300002: mirror
-    3300004: pattern2
-    3300006: pattern_MeshPart0
-    3300008: pattern_MeshPart1
-    3300010: pattern_MeshPart2
-    3300012: pattern_MeshPart3
-    4300000: pattern2
-    4300002: mirror
-    4300004: frame
-    4300006: pattern_MeshPart0
-    4300008: pattern_MeshPart1
-    4300010: pattern_MeshPart2
-    4300012: pattern_MeshPart3
-    9500000: //RootNode
+    100000: Camera
+    100002: //RootNode
+    100004: Clock paper
+    100006: glass
+    100008: hours hand
+    100010: Lamp
+    100012: minuts hand
+    100014: Nail
+    100016: outside
+    100018: second hand
+    400000: Camera
+    400002: //RootNode
+    400004: Clock paper
+    400006: glass
+    400008: hours hand
+    400010: Lamp
+    400012: minuts hand
+    400014: Nail
+    400016: outside
+    400018: second hand
+    2300000: Clock paper
+    2300002: glass
+    2300004: hours hand
+    2300006: minuts hand
+    2300008: Nail
+    2300010: outside
+    2300012: second hand
+    3300000: Clock paper
+    3300002: glass
+    3300004: hours hand
+    3300006: minuts hand
+    3300008: Nail
+    3300010: outside
+    3300012: second hand
+    4300000: outside
+    4300002: Clock paper
+    4300004: Nail
+    4300006: second hand
+    4300008: hours hand
+    4300010: minuts hand
+    4300012: glass
   materials:
     importMaterials: 1
     materialName: 0
@@ -69,12 +70,12 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.7
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -107,7 +108,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

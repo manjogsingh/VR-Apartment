@@ -1,47 +1,50 @@
 fileFormatVersion: 2
-guid: 798e2e82e3b5af9429f1c69e62782e6e
-timeCreated: 1485453550
+guid: c469ddc839c2de949a58c7416efe7173
+timeCreated: 1484671271
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Clock paper
-    100004: glass
-    100006: hours hand
-    100008: minuts hand
-    100010: Nail
-    100012: outside
-    100014: second hand
+    100002: frame
+    100004: mirror
+    100006: pattern
+    100008: pattern2
+    100010: pattern_MeshPart0
+    100012: pattern_MeshPart1
+    100014: pattern_MeshPart2
+    100016: pattern_MeshPart3
     400000: //RootNode
-    400002: Clock paper
-    400004: glass
-    400006: hours hand
-    400008: minuts hand
-    400010: Nail
-    400012: outside
-    400014: second hand
-    2300000: Clock paper
-    2300002: glass
-    2300004: hours hand
-    2300006: minuts hand
-    2300008: Nail
-    2300010: outside
-    2300012: second hand
-    3300000: Clock paper
-    3300002: glass
-    3300004: hours hand
-    3300006: minuts hand
-    3300008: Nail
-    3300010: outside
-    3300012: second hand
-    4300000: glass
-    4300002: minuts hand
-    4300004: hours hand
-    4300006: second hand
-    4300008: Nail
-    4300010: Clock paper
-    4300012: outside
+    400002: frame
+    400004: mirror
+    400006: pattern
+    400008: pattern2
+    400010: pattern_MeshPart0
+    400012: pattern_MeshPart1
+    400014: pattern_MeshPart2
+    400016: pattern_MeshPart3
+    2300000: frame
+    2300002: mirror
+    2300004: pattern2
+    2300006: pattern_MeshPart0
+    2300008: pattern_MeshPart1
+    2300010: pattern_MeshPart2
+    2300012: pattern_MeshPart3
+    3300000: frame
+    3300002: mirror
+    3300004: pattern2
+    3300006: pattern_MeshPart0
+    3300008: pattern_MeshPart1
+    3300010: pattern_MeshPart2
+    3300012: pattern_MeshPart3
+    4300000: pattern2
+    4300002: mirror
+    4300004: frame
+    4300006: pattern_MeshPart0
+    4300008: pattern_MeshPart1
+    4300010: pattern_MeshPart2
+    4300012: pattern_MeshPart3
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -66,12 +69,12 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.7
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -104,7 +107,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

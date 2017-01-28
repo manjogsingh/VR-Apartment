@@ -6,8 +6,15 @@ This is a VR environment created to be experienced in android and ios devices. T
 * Made from begining rather than using given data
 * Globe rotating on every touch
 
-##Prerequisites
-Google VR SDK - [ver 1.0](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.0.0)
+##Steps to run project
+1. Import Google VR SDK
+2. Clone the repository in working directory
+3. Open VRND_Course_2 cene from Scene folder
+4. Build lighting by selecting Lighting menu from Menu bar
+
+##Downloads
+* Google VR SDK - [ver 1.0](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.0.0)
+* You can download the apk from [here]()
 
 ##Author
 **Manjog Singh**

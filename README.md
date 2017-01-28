@@ -7,11 +7,11 @@ This is a VR environment created to be experienced in android and ios devices. T
 * Globe rotating on every touch
 
 ##Screenshots
-![Screenshot_20170128-135305.png](./Screenshots/Screenshot_20170128-135305.png =200x)
+<p><center><img src ="Screenshots/Screenshot_20170128-135305.png" width="400"></center></p>
 
-![Screenshot_20170128-135612.png](./Screenshots/Screenshot_20170128-135612.png | width=200)
+<p><center><img src="Screenshots/Screenshot_20170128-135612.png" width="400"></center></p>
 
-![Screenshot_20170128-135621.png](./Screenshots/Screenshot_20170128-135621.png | width=200)
+<p><center><img src="Screenshots/Screenshot_20170128-135621.png" width="400"></center></p>
 
 ##Steps to run project
 1. Import Google VR SDK

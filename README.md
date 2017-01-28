@@ -6,6 +6,9 @@ This is a VR environment created to be experienced in android and ios devices. T
 * Made from begining rather than using given data
 * Globe rotating on every touch
 
+##Screenshots
+![]()
+
 ##Steps to run project
 1. Import Google VR SDK
 2. Clone the repository in working directory
@@ -14,7 +17,7 @@ This is a VR environment created to be experienced in android and ios devices. T
 
 ##Downloads
 * Google VR SDK - [ver 1.0](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.0.0)
-* You can download the apk from [here]()
+* You can download the apk from [here](https://github.com/manjogsingh/VR-Apartment/releases/tag/v1.0.0)
 
 ##Author
 **Manjog Singh**

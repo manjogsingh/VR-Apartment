@@ -22,6 +22,8 @@ ExportedObj/
 *.blend1
 
 # Unity3D generated meta files
+*GoogleVR.meta
+*Plugins.meta
 *.pidb.meta
 *.blend1.meta
 

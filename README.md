@@ -16,7 +16,7 @@ This is a VR environment created to be experienced in android and ios devices. T
 ##Steps to run project
 1. Import Google VR SDK
 2. Clone the repository in working directory
-3. Open VRND_Course_2 Scene from Scene folder
+3. Open VRND_Course_2.unity from Scene folder
 4. Build lighting by selecting Lighting menu from Menu bar
 
 ##Downloads
